@@ -1,1 +1,2 @@
 Hello, Welcome to Git Kraken
+New text edition 01
